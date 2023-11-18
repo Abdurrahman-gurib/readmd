@@ -2,7 +2,7 @@
 Hi 👋 My name is Abdurrahman Noor-Ul-Haqq Gurib
 =======================
 
-I'm a Full-Stack Engineer at SD Work Mauritius
+I'm an Associate Full-Stack Engineer at SD Work Mauritius
 ---------------------------------------------
 
 I started coding in 2018, and since then, I have been on an exciting journey of exploration and growth in software development. Passionate about crafting elegant and efficient solutions, I thrive on turning ideas into functional code. 
